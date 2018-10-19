@@ -1,2 +1,2 @@
 # igorpereirapoliceno.github.io
-Portifólio - (**Em construção**)
+Portfólio - (**Em construção**)
