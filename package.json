@@ -1,0 +1,23 @@
+{
+  "name": "igorpereirapoliceno.github.io",
+  "version": "1.0.0",
+  "description": "Construção do portifólio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorpereirapoliceno/igorpereirapoliceno.github.io.git"
+  },
+  "author": "igorpereirapoliceno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorpereirapoliceno/igorpereirapoliceno.github.io/issues"
+  },
+  "homepage": "https://github.com/igorpereirapoliceno/igorpereirapoliceno.github.io#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "sass": "^1.14.2"
+  }
+}
