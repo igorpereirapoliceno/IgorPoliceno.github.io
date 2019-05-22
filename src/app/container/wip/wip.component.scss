@@ -10,16 +10,22 @@
      background-color: #0007;
      box-shadow: #4bb3b1 -4px 5px 1px 0px;
      border-radius: 20px; 
+     border: solid #4bb3b1 1px;
 }
 
 .menubar{
-    width: 200px;
     padding: 15px;
 }
 
 .icons{
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
+    margin-left: 15px;
+}
+
+.icons:hover{
+    background-color: #4bb3b1;
+    border-radius: 4px;
 }
 
 .text{
@@ -38,5 +44,3 @@
 .devs{
     color: #81c9a8;
 }
-
-
